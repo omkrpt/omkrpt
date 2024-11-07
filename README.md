@@ -11,4 +11,4 @@ My current research interests are explainable AI and data management.
 
 Find more about me at [omkarpote.com](https://omkarpote.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omkrpt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omkrpt&theme=dark&mode=weekly)](https://git.io/streak-stats)
