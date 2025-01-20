@@ -9,6 +9,6 @@ Hi there 👋 Nice to meet you. I'm Omkar,
 
 My current research interests are explainable AI and data management.
 
-Find more about me at [omkarpote.com](https://omkarpote.com/)
+Find my CV and more about me at [omkarpote.com](https://omkarpote.com/)
 
 [![GitHub Streak](https://github-readme-streak-stats-kappa-liard.vercel.app?user=omkrpt&theme=dark&mode=weekly)](https://git.io/streak-stats)
